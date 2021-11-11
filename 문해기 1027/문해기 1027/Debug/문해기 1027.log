@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\kimsm\source\repos\문해기 1027\문해기 1027\소스.cpp(9,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\kimsm\source\repos\문해기 1027\문해기 1027\소스.cpp(16,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  문해기 1027.vcxproj -> C:\Users\kimsm\source\repos\문해기 1027\Debug\문해기 1027.exe

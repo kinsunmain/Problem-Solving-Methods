@@ -1,0 +1,15 @@
+﻿  12.2 4a.cpp
+  12.3 3.cpp
+  12.3 4.cpp
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(25,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'DATE'입니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(25,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'DATE'입니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(25,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(25,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 7개 필요하지만 3개가 제공되었습니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(25,10): message : 누락된 variadic 인수 4이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(28,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'DATE'입니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(28,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(28,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 1개가 제공되었습니다.
+C:\Users\kimsm\source\repos\문해기 0924\문해기 0924\12.3 4.cpp(28,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+  12.3.cpp
+  코드를 생성하고 있습니다...
+  문해기 0924.vcxproj -> C:\Users\kimsm\source\repos\문해기 0924\Debug\문해기 0924.exe

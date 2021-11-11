@@ -1,0 +1,11 @@
+﻿  LAB_G.cpp
+  LAB_H.cpp
+  LAB_S.cpp
+  LAB_V.cpp
+  LAB_VS.cpp
+C:\Users\kimsm\source\repos\문해기 1103\문해기 1103\LAB_VS.cpp(51,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\source\repos\문해기 1103\문해기 1103\LAB_VS.cpp(55,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\source\repos\문해기 1103\문해기 1103\LAB_VS.cpp(66,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\source\repos\문해기 1103\문해기 1103\LAB_VS.cpp(77,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  문해기 1103.vcxproj -> C:\Users\kimsm\source\repos\문해기 1103\Debug\문해기 1103.exe
