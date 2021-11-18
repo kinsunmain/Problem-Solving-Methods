@@ -1,0 +1,7 @@
+﻿  LAB1.cpp
+  LAB2.cpp
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 1112_2\문해기 1112_2\LAB2.cpp(63,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 1112_2\문해기 1112_2\LAB2.cpp(82,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 1112_2\문해기 1112_2\LAB2.cpp(149,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  문해기 1112_2.vcxproj -> C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 1112_2\Debug\문해기 1112_2.exe
