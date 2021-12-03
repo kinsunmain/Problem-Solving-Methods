@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: "int __cdecl GetRectangleArea(int,int)" (?GetRectangleArea@@YAHHH@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 1201\Debug\문해기 1201.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
