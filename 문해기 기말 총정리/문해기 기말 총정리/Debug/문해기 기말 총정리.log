@@ -1,0 +1,4 @@
+﻿  Bitwise LAB2.cpp
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Bitwise LAB2.cpp(64,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Bitwise LAB2.cpp(70,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  문해기 기말 총정리.vcxproj -> C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\Debug\문해기 기말 총정리.exe
