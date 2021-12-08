@@ -24,10 +24,23 @@
     <ClCompile Include="Bitwise LAB2.cpp" />
     <ClCompile Include="Compression LAB1.cpp" />
     <ClCompile Include="Compression LAB2.cpp" />
+    <ClCompile Include="File IO exercise2.cpp" />
     <ClCompile Include="fileIO LAB1.cpp" />
     <ClCompile Include="fileIO LAB_H.cpp" />
     <ClCompile Include="fileIO LAB_S.cpp" />
+    <ClCompile Include="FileIO Problem10.cpp" />
+    <ClCompile Include="Linked list LAB1.cpp" />
+    <ClCompile Include="Multi-Files circle.cpp" />
+    <ClCompile Include="Multi-Files main.cpp" />
+    <ClCompile Include="Multi-Files ractangle.cpp" />
+    <ClCompile Include="Queue LAB2.cpp" />
+    <ClCompile Include="Stack LAB1.cpp" />
     <ClCompile Include="소스.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Multi-Files circle.h" />
+    <ClInclude Include="Multi-Files mydef.h" />
+    <ClInclude Include="Multi-Files rectangle.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
