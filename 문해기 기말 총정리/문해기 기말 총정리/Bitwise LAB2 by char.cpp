@@ -65,7 +65,7 @@
 //{
 //	char bin_str[32];
 //	char hex_str[32];
-//	for (int i = 1; i <= 1000; i++)
+//	for (int i = 33; i <= 1000; i++)
 //	{
 //		bin_to_binstr(i, bin_str);
 //		bin_to_hexstr(i, hex_str);
