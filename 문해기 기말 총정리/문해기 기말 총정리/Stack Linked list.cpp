@@ -16,8 +16,6 @@
 //	NODE* prev = head;
 //
 //	while (p) {
-//		//if (p->key == value) return -1;
-//		//else if (p->key >= value) break;
 //		prev = p;
 //		p = p->next;
 //	}
@@ -59,7 +57,7 @@
 //			p = p->next;
 //			i++;
 //		}
-//		printf("node[%d] top : %d value : %d\n",i, p->top, p->key);
+//		printf("pop node[%d] top : %d value : %d\n",i, p->top, p->key);
 //		prev->next = NULL;
 //		free(p);
 //	}
@@ -68,7 +66,7 @@
 //
 //void trav(NODE* head) {
 //	NODE* p = head->next;
-//
+//	printf("\n------------------trav--------------------\n");
 //	int i = 0;
 //	while (p) {
 //		printf("node[%d] top : %d value : %d\n", i, p->top, p->key);

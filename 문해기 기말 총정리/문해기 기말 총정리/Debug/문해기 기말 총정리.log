@@ -1,2 +1,12 @@
-﻿  Stack LAB1_2.cpp
+﻿  Caesar Substitution.cpp
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(45,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(64,57): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(69,62): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(60,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(93,57): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(98,62): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(89,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\문해기 기말 총정리\Caesar Substitution.cpp(116,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Compression LAB2.cpp
+  코드를 생성하고 있습니다...
   문해기 기말 총정리.vcxproj -> C:\Users\kimsm\Desktop\github\Problem-Solving-Methods\문해기 기말 총정리\Debug\문해기 기말 총정리.exe
